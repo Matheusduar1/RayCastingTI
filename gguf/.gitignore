@@ -1,0 +1,3 @@
+# Ignora todos os modelos .gguf nesta pasta para nao exceder o limite do Git/GitHub
+*.gguf
+!.gitignore

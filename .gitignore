@@ -1,0 +1,9 @@
+# Modelos locais de IA (GGUF / Pesos grandes > 100MB do GitHub)
+gguf/*.gguf
+*.gguf
+
+# Binarios locais do motor llama.cpp (opcional, evita exceder limite do Git)
+llama-b11669-bin-win-cpu-x64/
+
+# Arquivos privados do NetBeans
+nbproject/private/
