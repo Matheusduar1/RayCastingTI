@@ -1,4 +1,4 @@
-package doomti;
+package raycastingti;
 
 import java.awt.image.BufferedImage;
 
